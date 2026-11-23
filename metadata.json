@@ -1,0 +1,8 @@
+{
+  "name": "Remix VasoSense Clinical",
+  "description": "Wearable microvascular vasospasm monitoring system for Raynaud\u0027s phenomenon tracking and FRDM-MCXN236 hardware telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
